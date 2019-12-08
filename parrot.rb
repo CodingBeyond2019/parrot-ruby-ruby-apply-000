@@ -1,4 +1,4 @@
-def parrot(says, default = "Squawk!")
+def parrot(says)
     puts says
   
   
