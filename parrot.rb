@@ -7,4 +7,5 @@ end
   return says
 end
 
+return parrot()
 return parrot("poly")
