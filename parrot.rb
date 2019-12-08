@@ -4,7 +4,7 @@ def parrot(says)
     else
       "squawk!"
 end  
-  
+  return says
 end
 
 return parrot("poly")
