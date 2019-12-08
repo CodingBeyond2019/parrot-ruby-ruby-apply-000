@@ -1,7 +1,7 @@
-def parrot(says)
+def parrot(says, default = "Squawk!")
     puts says
   
   
 end
 
-return parrot("Squawk!")
+return parrot("poly")
